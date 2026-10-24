@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 10px;
+    background: #f2f5f9;
+}
+
+nav a {
+    margin-right: 5px;
+    color: #333;
+    text-decoration: none;
+}
+
+nav a.active {
+    color: blue;
+    font-weight: bold;
+}
+
+img {
+    border-radius: 18%;
+    object-fit: bold;
+}
+
+footer {
+    margin-top: 20px;
+    color: #555;
+}
